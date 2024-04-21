@@ -32,4 +32,4 @@ O Aplicativo Contador em Flutter é uma aplicação simples que permite aos usu�
 - O aplicativo usa widgets básicos do Flutter, como MaterialApp, Scaffold, AppBar, FloatingActionButton e Text.
 
 ## Licença
-Este projeto é licenciado sob a [MIT License](link_da_licença).
+Este projeto é licenciado sob a [MIT License](https://github.com/brunaschneider/contador).
